@@ -20,6 +20,6 @@ Usage
 -----
 
 Typical usage:  
-`java -jat TarSeeker-[verison_number].jar -i /path/to/the/input/file.tar -o /path/to/the/output/file.txt -e -f txt`  
+`java -jar TarSeeker-[verison_number].jar -i /path/to/the/input/file.tar -o /path/to/the/output/file.txt -e -f txt`  
 The command above will seek for each `txt` file inside the input file and saves them in a single file called `file.txt`.
 
